@@ -1,4 +1,4 @@
 # plasmidlab
 Open Bio Lab of the Fab Lab Yucatan.
 
-Scientific computing in Python.
+This repository is dedicated to scientific computing in Python.
